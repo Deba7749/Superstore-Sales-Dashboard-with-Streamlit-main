@@ -42,38 +42,6 @@ Superstore Sales with Streamlit is a data visualization and analysis project tha
 - **Product Performance**: Evaluate the performance of different product categories.
 - **Export Data**: Download selected data for further analysis.
 
-## Project Structure
-
-The project repository is organized as follows:
-
-```
-
-├── LICENSE
-├── README.md           <- README .
-├── notebooks           <- Folder containing the final reports/results of this project.
-│   │
-│   └── bank_german_customer_segmentation.py   <- Final notebook for the project.
-├── reports            <- Folder containing the final reports/results of this project.
-│   │
-│   └── Pizza_Sales_Report.pdf   <- Final analysis report in PDF.
-│   
-├── src                <- Source for this project.
-│   │
-│   └── data           <- Datasets used and collected for this project.
-|   └── model          <- Model.
-```
-## License
-
-Due to the extensive time invested in code development and in consideration of privacy concerns, the source code for the application is currently not publicly accessible. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
-
-## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
-## Contact me!
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
 
 
